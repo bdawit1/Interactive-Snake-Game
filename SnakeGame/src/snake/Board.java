@@ -12,9 +12,7 @@ import java.awt.event.KeyEvent;
  * processes input, advances the game state, and detects collisions.
  * </p>
  *
- * <h2>Project:</h2> CMSC132 – Project 4 (Snake)
  * @author Brook Dawit
- * @author Moshe
  * @version 1.0
  * @since 2025-10-17
  */
