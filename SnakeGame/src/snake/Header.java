@@ -7,11 +7,9 @@ import java.awt.*;
  * Header
  * <p>Top strip that shows the title and current score.</p>
  *
- * <h2>Project:</h2> CMSC132 – Project 4 (Snake)
  * @version 1.0
  * @since 2025-10-17
  * @author Brook Dawit
- * @author Moshe
  */
 class Header extends JPanel {
     private static final long serialVersionUID = 1L;
