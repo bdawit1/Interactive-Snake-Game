@@ -6,9 +6,7 @@ import java.awt.Point;
  * GameData
  * <p>Encapsulates grid dimensions, snake body, apple placement, and score.</p>
  *
- * <h2>Project:</h2> CMSC132 – Project 4 (Snake)
  * @author Brook Dawit
- * @author Moshe
  * @version 1.0
  * @since 2025-10-17
  */
